@@ -174,6 +174,13 @@ const myFavoriteFootballTeam = {
 };
 Object.freeze(myFavoriteFootballTeam); //Freeze
 
-const sport = myFavoriteFootballTeam.sport;
-const team = myFavoriteFootballTeam.team;
+const { sport, team, year, players } = myFavoriteFootballTeam;
+const{ coachName} = myFavoriteFootballTeam.headCoach;
+
+// Display Team Informations
+typeOfSport.textContent = sport;
+teamName.textContent = team;
+worldCupYear.textContent = year;
+headCoach.textContent = coachName;
+
 
