@@ -175,7 +175,7 @@ const myFavoriteFootballTeam = {
 Object.freeze(myFavoriteFootballTeam); //Freeze
 
 const { sport, team, year, players } = myFavoriteFootballTeam;
-const{ coachName} = myFavoriteFootballTeam.headCoach;
+const{ coachName } = myFavoriteFootballTeam.headCoach;
 
 // Display Team Informations
 typeOfSport.textContent = sport;
@@ -183,4 +183,9 @@ teamName.textContent = team;
 worldCupYear.textContent = year;
 headCoach.textContent = coachName;
 
+// Function that will show player cards based on the selections made by the user 
+const setPlayerCards = (arr = players) => {
+  return arr;
+
+};
 
