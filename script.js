@@ -185,7 +185,23 @@ headCoach.textContent = coachName;
 
 // Function that will show player cards based on the selections made by the user 
 const setPlayerCards = (arr = players) => {
-  return arr;
-
+  playerCards.innerHTML += arr.map(({ name, position, number, isCaptain, nickname}) =>  
+    `
+    <div class="player-card"></div>
+    <h2>${isCaptain ? "(captain)" : "" } ${name}</h2>
+    <p>Position: ${position}</p>
+    <p>Number: ${number}</p>
+    <p>Nickname: ${nickname !== null ? nickname : "N/A"}</p>
+    
+    `
+  )
+  .join("");// Romove commas from array
 };
 
+// Function that will detect when a user makes a selection
+playersDropdownList.addEventListener("change", (e) => {
+
+playerCards.innerHTML = ""; // reset the content for the playerCards element
+
+
+});
