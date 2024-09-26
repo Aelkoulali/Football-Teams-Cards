@@ -1,4 +1,10 @@
 # 🗂️ Building Football Teams Cards ⚽🏃🏻‍♂️ 
 ## ➡️ Key Concepts :
-### ✅ DOM manipulation + object destructuring, event handling, and data filtering.
-### ✅ Switch statements, default parameters, Object.freeze(), the map() method, and more.
+### ✅ DOM manipulation
+### ✅ Object destructuring
+### ✅ Event Handling
+### ✅ Data filtering
+### ✅ Switch statements
+### ✅ Default parameters
+### ✅ Object.freeze( )
+### ✅ map ( )
