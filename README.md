@@ -1,4 +1,4 @@
-# 🗂️ Building Football Teams Cards ⚽🏃🏻‍♂️ 
+# 🗂️ Building Football Teams Cards ⚽🏟🥅
 ## ➡️ Key Concepts :
 ### ✅ DOM manipulation
 ### ✅ Object destructuring
