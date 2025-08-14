@@ -15,7 +15,6 @@
 
 body {
   background-image: url('background.jpg');
-  background-color: var(--dark-grey);
   text-align: center;
   padding: 10px;
 }
