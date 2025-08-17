@@ -13,7 +13,8 @@
 }
 
 body {
-  background-image: url('background/background.jpg');
+  background-image: url('ound');
+  background-size: cover;
   text-align: center;
   padding: 10px;
 }
