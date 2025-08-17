@@ -112,6 +112,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
+            img: "Pics/Oscar Garré.jpg",
             name: "Oscar Garré",
             position: "defender",
             number: 13,
@@ -151,6 +152,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
+            img: "Pics/Nery Pumpido.jpg",
             name: "Nery Pumpido",
             position: "goalkeeper",
             number: 18,
