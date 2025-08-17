@@ -32,7 +32,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
         },
         {
-            img: "Pics/Ricardo Bochini.jpg",
+            img: "Pics/Ricardo Bochini.png",
             name: "Ricardo Bochini",
             position: "midfielder",
             number: 3,
@@ -48,7 +48,7 @@ const myFavoriteFootballTeam = {
             nickname: "Bichi",
           },
           {
-            img: "Pics/José Luis Brown.jpg",
+            img: "Pics/José Luis Brown.png",
             name: "José Luis Brown",
             position: "defender",
             number: 5,
@@ -56,7 +56,7 @@ const myFavoriteFootballTeam = {
             nickname: "Tata",
           },
           {
-            img: "Pics/Daniel Passarella.jpg",
+            img: "Pics/Daniel Passarella.png",
             name: "Daniel Passarella",
             position: "defender",
             number: 6,
@@ -112,7 +112,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Oscar Garré.jpg",
+            img: "Pics/Oscar Garré.png",
             name: "Oscar Garré",
             position: "defender",
             number: 13,
