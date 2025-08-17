@@ -26,6 +26,11 @@ footer {
   font-weight: bold;
 }
 
+.team-stats {
+  background-color: var(--light-blue);
+  padding: 1.5rem;
+  border-radius: 10px;
+}
 .title {
   margin: 1.3rem 0;
 }
