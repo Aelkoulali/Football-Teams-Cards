@@ -13,7 +13,7 @@
 }
 
 body {
-  background-image: url('background.jpg');
+  background-image: url('background/background.jpg');
   text-align: center;
   padding: 10px;
 }
