@@ -14,7 +14,6 @@
 
 body {
   background-image: url('background/back.jpg');
-  background-size: cover;
   text-align: center;
   padding: 10px;
 }
@@ -23,7 +22,8 @@ body {
 .options-label,
 .team-stats,
 footer {
-  color: var(--white);
+  color: var(--black);
+  font-weight: bold;
 }
 
 .title {
