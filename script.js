@@ -16,6 +16,7 @@ const myFavoriteFootballTeam = {
     },
     players: [
         {
+            img: "Pics/Sergio Almirón.jpg",
             name: "Sergio Almirón",
             position: "forward",
             number: 1,
@@ -185,9 +186,10 @@ headCoach.textContent = coachName;
 
 // Function that will show player cards based on the selections made by the user 
 const setPlayerCards = (arr = players) => {
-  playerCards.innerHTML += arr.map(({ name, position, number, isCaptain, nickname}) =>  
+  playerCards.innerHTML += arr.map(({ img, name, position, number, isCaptain, nickname}) =>  
     `
     <div class="player-card">
+    <img src="${img}" alt="${name}" style="width: 200px; height:250px;"/>
     <h2>${isCaptain ? "(captain)" : "" } ${name}</h2>
     <p>Position: ${position}</p>
     <p>Number: ${number}</p>
