@@ -136,7 +136,7 @@ const myFavoriteFootballTeam = {
             nickname: "El loco",
           },
           {
-            img: "Pics/Julio Olarticoechea.jpg",
+            img: "Pics/Julio Olarticoechea.jpeg",
             name: "Julio Olarticoechea",
             position: "defender",
             number: 16,
@@ -176,7 +176,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Marcelo Trobbiani.jpg",
+            img: "Pics/Marcelo Trobbiani.jpeg",
             name: "Marcelo Trobbiani",
             position: "midfielder",
             number: 21,
