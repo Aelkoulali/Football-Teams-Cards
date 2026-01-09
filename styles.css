@@ -14,7 +14,7 @@
 }
 
 body {
-  background-image: url('background/back.jpg');
+  background-color: var(--navy);
   text-align: center;
   padding: 10px;
 }
@@ -78,7 +78,6 @@ body {
 }
 
 .footer {
-  background-color: var(--navy);
   height: 50px;
   font-size: 0.9rem;
   color: var(--white);
