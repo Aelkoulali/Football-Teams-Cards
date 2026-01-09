@@ -10,6 +10,7 @@
   --light-blue: #add8e6;
   --white: #ffffff;
   --black: #000;
+  --navy: #000080;
 }
 
 body {
@@ -77,7 +78,7 @@ body {
 }
 
 .footer {
-  background-color: var(--black);
+  background-color: var(--navy);
   height: 50px;
   font-size: 0.9rem;
   color: var(--white);
