@@ -77,7 +77,13 @@ body {
 }
 
 .footer {
-  margin-top: 2rem;
+  background-color: var(--black);
+  height: 50px;
   font-size: 0.9rem;
   color: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  position: relative;
 }
