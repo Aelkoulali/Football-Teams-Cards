@@ -18,7 +18,7 @@ body {
   padding: 10px;
 }
 
-.title, .options-label, .copyrights {
+.title, .options-label {
   font-size: 2.5rem;
   font-weight: bold;
   color: var(--white);
@@ -74,4 +74,10 @@ body {
   .team-stats {
     flex-direction: column;
   }
+}
+
+.footer {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: var(--white);
 }
