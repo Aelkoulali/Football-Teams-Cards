@@ -16,7 +16,7 @@ const myFavoriteFootballTeam = {
     },
     players: [
         {
-            img: "Pics/Sergio Almirón.jpg",
+            img: "Pics/Players/Sergio Almirón.jpg",
             name: "Sergio Almirón",
             position: "forward",
             number: 1,
@@ -24,7 +24,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
         },
         {
-            img: "Pics/Sergio Batista.jpg",
+            img: "Pics/Players/Sergio Batista.jpg",
             name: "Sergio Batista",
             position: "midfielder",
             number: 2,
@@ -32,7 +32,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
         },
         {
-            img: "Pics/Ricardo Bochini.png",
+            img: "Pics/Players/Ricardo Bochini.png",
             name: "Ricardo Bochini",
             position: "midfielder",
             number: 3,
@@ -40,7 +40,7 @@ const myFavoriteFootballTeam = {
             nickname: "El Bocha",
           },
           {
-            img: "Pics/Claudio Borghi.jpg",
+            img: "Pics/Players/Claudio Borghi.jpg",
             name: "Claudio Borghi",
             position: "midfielder",
             number: 4,
@@ -48,7 +48,7 @@ const myFavoriteFootballTeam = {
             nickname: "Bichi",
           },
           {
-            img: "Pics/José Luis Brown.png",
+            img: "Pics/Players/José Luis Brown.png",
             name: "José Luis Brown",
             position: "defender",
             number: 5,
@@ -56,7 +56,7 @@ const myFavoriteFootballTeam = {
             nickname: "Tata",
           },
           {
-            img: "Pics/Daniel Passarella.png",
+            img: "Pics/Players/Daniel Passarella.png",
             name: "Daniel Passarella",
             position: "defender",
             number: 6,
@@ -64,7 +64,7 @@ const myFavoriteFootballTeam = {
             nickname: "El Gran Capitán",
           },
           {
-            img: "Pics/Jorge Burruchaga.jpg",
+            img: "Pics/Players/Jorge Burruchaga.jpg",
             name: "Jorge Burruchaga",
             position: "forward",
             number: 7,
@@ -72,7 +72,7 @@ const myFavoriteFootballTeam = {
             nickname: "Burru",
           },
           {
-            img: "Pics/Néstor Clausen.jpg",
+            img: "Pics/Players/Néstor Clausen.jpg",
             name: "Néstor Clausen",
             position: "defender",
             number: 8,
@@ -80,7 +80,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/José Luis Cuciuffo.jpg",
+            img: "Pics/Players/José Luis Cuciuffo.jpg",
             name: "José Luis Cuciuffo",
             position: "defender",
             number: 9,
@@ -88,7 +88,7 @@ const myFavoriteFootballTeam = {
             nickname: "El Cuchu",
           },
           {
-            img: "Pics/Diego Maradona.jpg",
+            img: "Pics/Players/Diego Maradona.jpg",
             name: "Diego Maradona",
             position: "midfielder",
             number: 10,
@@ -96,7 +96,7 @@ const myFavoriteFootballTeam = {
             nickname: "El Pibe de Oro",
           },
           {
-            img: "Pics/Jorge Valdano.jpg",
+            img: "Pics/Players/Jorge Valdano.jpg",
             name: "Jorge Valdano",
             position: "forward",
             number: 11,
@@ -104,7 +104,7 @@ const myFavoriteFootballTeam = {
             nickname: "The Philosopher of Football",
           },
           {
-            img: "Pics/Héctor Enrique.jpg",
+            img: "Pics/Players/Héctor Enrique.jpg",
             name: "Héctor Enrique",
             position: "midfielder",
             number: 12,
@@ -112,7 +112,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Oscar Garré.png",
+            img: "Pics/Players/Oscar Garré.png",
             name: "Oscar Garré",
             position: "defender",
             number: 13,
@@ -120,7 +120,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Ricardo Giusti.jpg",
+            img: "Pics/Players/Ricardo Giusti.jpg",
             name: "Ricardo Giusti",
             position: "midfielder",
             number: 14,
@@ -128,7 +128,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Luis Islas.jpg",
+            img: "Pics/Players/Luis Islas.jpg",
             name: "Luis Islas",
             position: "goalkeeper",
             number: 15,
@@ -136,7 +136,7 @@ const myFavoriteFootballTeam = {
             nickname: "El loco",
           },
           {
-            img: "Pics/Julio Olarticoechea.jpeg",
+            img: "Pics/Players/Julio Olarticoechea.jpeg",
             name: "Julio Olarticoechea",
             position: "defender",
             number: 16,
@@ -144,7 +144,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Pedro Pasculli.jpg",
+            img: "Pics/Players/Pedro Pasculli.jpg",
             name: "Pedro Pasculli",
             position: "forward",
             number: 17,
@@ -152,7 +152,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Nery Pumpido.jpg",
+            img: "Pics/Players/Nery Pumpido.jpg",
             name: "Nery Pumpido",
             position: "goalkeeper",
             number: 18,
@@ -160,7 +160,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Oscar Ruggeri.jpg",
+            img: "Pics/Players/Oscar Ruggeri.jpg",
             name: "Oscar Ruggeri",
             position: "defender",
             number: 19,
@@ -168,7 +168,7 @@ const myFavoriteFootballTeam = {
             nickname: "El Cabezón",
           },
           {
-            img: "Pics/Carlos Tapia.jpg",
+            img: "Pics/Players/Carlos Tapia.jpg",
             name: "Carlos Tapia",
             position: "midfielder",
             number: 20,
@@ -176,7 +176,7 @@ const myFavoriteFootballTeam = {
             nickname: null,
           },
           {
-            img: "Pics/Marcelo Trobbiani.jpeg",
+            img: "Pics/Players/Marcelo Trobbiani.jpeg",
             name: "Marcelo Trobbiani",
             position: "midfielder",
             number: 21,
@@ -184,7 +184,7 @@ const myFavoriteFootballTeam = {
             nickname: "Calesita",
           },
           {
-            img: "Pics/Héctor Zelada.jpg",
+            img: "Pics/Players/Héctor Zelada.jpg",
             name: "Héctor Zelada",
             position: "goalkeeper",
             number: 22,
