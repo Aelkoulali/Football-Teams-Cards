@@ -210,7 +210,7 @@ const setPlayerCards = (arr = players) => {
   playerCards.innerHTML += arr.map(({ img, name, position, number, isCaptain, nickname}) =>  
     `
     <div class="player-card">
-    <img src="${img}" alt="${name}" style="width: 200px; height:250px;"/>
+    <img src="${img}" alt="${name}" style="width: 200px; height:250px; border-radius: 10px;"/>
     <h2>${isCaptain ? "(captain)" : "" } ${name}</h2>
     <p>Position: ${position}</p>
     <p>Number: ${number}</p>
