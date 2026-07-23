@@ -26,3 +26,6 @@ This project builds football team player cards using HTML, CSS, and JavaScript. 
 - Default parameters
 - `Object.freeze()`
 - `map()` for generating card HTML
+
+▶️ How to Run
+- Open `index.html` in your browser.
