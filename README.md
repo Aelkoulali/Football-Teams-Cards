@@ -17,7 +17,7 @@ This project builds football team player cards using HTML, CSS, and JavaScript. 
 - CSS
 - JavaScript
 
-## JavaScript Concepts Used
+## 🧮 JavaScript Concepts Used
 - DOM manipulation
 - Object destructuring
 - Event handling (`change` event)
