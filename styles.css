@@ -86,6 +86,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 20px;
-  position: relative;
+  position: fixed;
+  width: 100%;
   background-color: var(--light-blue);
 }
