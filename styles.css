@@ -86,4 +86,5 @@ body {
   align-items: center;
   margin-top: 20px;
   position: relative;
+  background-color: var(--light-blue);
 }
